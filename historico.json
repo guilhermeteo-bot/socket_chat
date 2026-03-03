@@ -1,0 +1,187 @@
+[
+  {
+    "ts": "18:10",
+    "de": "Sistema",
+    "msg": "Guilherme entrou. Online: Guilherme"
+  },
+  {
+    "ts": "18:10",
+    "de": "Guilherme",
+    "msg": "ola"
+  },
+  {
+    "ts": "18:11",
+    "de": "Guilherme",
+    "msg": "ola"
+  },
+  {
+    "ts": "18:12",
+    "de": "Sistema",
+    "msg": "Gustavo entrou. Online: Guilherme, Gustavo"
+  },
+  {
+    "ts": "18:12",
+    "de": "Gustavo",
+    "msg": "ola"
+  },
+  {
+    "ts": "18:17",
+    "de": "Sistema",
+    "msg": "Guilherme entrou. Online: Guilherme"
+  },
+  {
+    "ts": "18:18",
+    "de": "Guilherme",
+    "msg": "ola"
+  },
+  {
+    "ts": "18:18",
+    "de": "Sistema",
+    "msg": "Pedro entrou. Online: Guilherme, Pedro"
+  },
+  {
+    "ts": "18:18",
+    "de": "Pedro",
+    "msg": "ola"
+  },
+  {
+    "ts": "18:18",
+    "de": "Pedro",
+    "msg": "eae"
+  },
+  {
+    "ts": "18:18",
+    "de": "Guilherme",
+    "msg": "blz"
+  },
+  {
+    "ts": "18:21",
+    "de": "Sistema",
+    "msg": "Guilherme saiu. Online: Pedro"
+  },
+  {
+    "ts": "18:21",
+    "de": "Sistema",
+    "msg": "Pedro saiu. Nenhum usuário online."
+  },
+  {
+    "ts": "18:32",
+    "de": "Sistema",
+    "msg": "Guilherme entrou. Online: Guilherme"
+  },
+  {
+    "ts": "18:32",
+    "de": "Guilherme",
+    "msg": "oi"
+  },
+  {
+    "ts": "18:33",
+    "de": "Sistema",
+    "msg": "Pedro entrou. Online: Guilherme, Pedro"
+  },
+  {
+    "ts": "18:33",
+    "de": "Pedro",
+    "msg": "ola"
+  },
+  {
+    "ts": "18:33",
+    "de": "Guilherme",
+    "msg": "como esta"
+  },
+  {
+    "ts": "18:33",
+    "de": "Sistema",
+    "msg": "Guilherme saiu. Online: Pedro"
+  },
+  {
+    "ts": "18:35",
+    "de": "Pedro",
+    "msg": "sair"
+  },
+  {
+    "ts": "18:35",
+    "de": "Pedro",
+    "msg": "sair"
+  },
+  {
+    "ts": "18:35",
+    "de": "Sistema",
+    "msg": "Pedro saiu. Nenhum usuário online."
+  },
+  {
+    "ts": "18:35",
+    "de": "Sistema",
+    "msg": "Guilherme entrou. Online: Guilherme"
+  },
+  {
+    "ts": "18:36",
+    "de": "Sistema",
+    "msg": "Pedro entrou. Online: Guilherme, Pedro"
+  },
+  {
+    "ts": "18:36",
+    "de": "Guilherme",
+    "msg": "ola"
+  },
+  {
+    "ts": "18:36",
+    "de": "Pedro",
+    "msg": "eae"
+  },
+  {
+    "ts": "19:08",
+    "de": "Sistema",
+    "msg": "Guilherme entrou. Online: Guilherme"
+  },
+  {
+    "ts": "19:08",
+    "de": "Sistema",
+    "msg": "Pedro entrou. Online: Guilherme, Pedro"
+  },
+  {
+    "ts": "19:08",
+    "de": "Pedro",
+    "msg": "ola"
+  },
+  {
+    "ts": "19:10",
+    "de": "Pedro",
+    "msg": "sair"
+  },
+  {
+    "ts": "19:10",
+    "de": "Guilherme",
+    "msg": "sair"
+  },
+  {
+    "ts": "19:10",
+    "de": "Sistema",
+    "msg": "Guilherme saiu. Online: Pedro"
+  },
+  {
+    "ts": "19:10",
+    "de": "Sistema",
+    "msg": "Pedro saiu. Nenhum usuário online."
+  },
+  {
+    "ts": "19:20",
+    "de": "Sistema",
+    "msg": "Guilherme entrou. Online: Guilherme"
+  },
+  {
+    "ts": "19:21",
+    "de": "Sistema",
+    "msg": "Pedro entrou. Online: Guilherme, Pedro"
+  },
+  {
+    "ts": "19:25",
+    "de": "Sistema",
+    "msg": "Pedro saiu. Online: Guilherme"
+  },
+  {
+    "ts": "19:25",
+    "de": "Sistema",
+    "msg": "Guilherme saiu. Nenhum usuário online."
+  }
+]
