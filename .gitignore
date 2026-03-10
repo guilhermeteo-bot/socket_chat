@@ -1,0 +1,22 @@
+# Bytecode Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+.env/
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Cache de ferramentas
+.mypy_cache/
+.pytest_cache/
+
+# Histórico e dados do chat
+historico.json
+usuarios.json
