@@ -31,7 +31,7 @@ O servidor não possui dependências externas — usa apenas a biblioteca padrã
 
 ## Como Usar
 
-### 1. Iniciar o Servidor (Linux / Zorin OS)
+### 1. Iniciar o Servidor 
 
 ```bash
 python3 server.py
